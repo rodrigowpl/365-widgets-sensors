@@ -1,7 +1,4 @@
-import {
-  calculateMean,
-  calculateStandardDeviation,
-} from "~/helpers/calc";
+import { calculateMean, calculateStandardDeviation } from "~/helpers/calc";
 import {
   Sensor,
   SensorOutput,
